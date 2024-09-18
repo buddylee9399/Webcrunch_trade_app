@@ -1,0 +1,25 @@
+- adding crud with scaffold
+- crud with resources
+- crud from scratch
+- credentials: 001_credentials.md
+- counter_cache: if you want to Count associated child records withouth hitting the database a bunch of times: 003_counter_cache.md
+- buttons to update a status "published, draft etc" 005_buttons_update
+- using csv: 014_csv.md
+- action_text: 015
+- action_mailer: 016
+- active_storage: 017
+- nested_resources: 018
+- direct_uploads: 019
+- acts as votable: 102
+- pdf: 103
+- powerpoint: 103
+- timetable: 103
+- wicked pdf: 103
+- pagination: 105
+- invisible captcha: 106
+- cocoon gem: 108
+- qrcode barcode: 109
+- markdown: 110-112
+- user roles: 113-115
+- impressionist: 116
+- admins: 117-119

@@ -1,0 +1,9 @@
+production:
+  name: AppNamePRO
+development:
+  name: AppNameDEV 2
+shared:
+  app_name: AppName
+  post_categories:
+    sports: Sports & Outdoors, Running
+    music: Music & Culture
