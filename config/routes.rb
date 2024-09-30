@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
-  root to: 'static_pages#index'
+  resources :trades
+  resources :conversations do
+    resources :messages
+  end
+  root to: 'trades#index'
+  # root to: 'static_pages#index'
   
   get   'about', to: 'static_pages#about'
   get   'contact', to: 'static_pages#contact'
